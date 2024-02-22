@@ -1,0 +1,15 @@
+{
+    "port":3001,
+    "mysql":{
+        "host":"localhost",
+        "dialect":"mysql",
+        "username":"root",
+        "password":"",
+        "database":"todo"
+    },
+    "mailCredentil":{
+        "user":"sshaikhmuskanb@gmail.com",
+        "pass":"uuyb bali nsla jboi"
+    }
+}
+
